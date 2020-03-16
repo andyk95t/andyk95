@@ -9,8 +9,7 @@
 	height: 100vh;
 	display: flex;
 	align-items: center;
-	justify-content: center;
-	
+	justify-content: center;	
 }
 .video{
 	position: fixed;
@@ -19,14 +18,12 @@
 }
 .login-wrap{
 	width: 20vw;
-	padding: 60px 0px;
-	height:15vh;
+	padding: 60px 20px;
 	background: #222;
 	border-radius: 12px;
 	border: 2px solid #4d4cff;
 	display: flex;
 	align-items: center;
-	justify-content: space-between;
 	flex-direction:column;
 
 }
