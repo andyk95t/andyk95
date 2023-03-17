@@ -17,7 +17,8 @@ html{
 }
 .video{
 	position: fixed;
-	width: 100vw;
+	min-width: 100vw;
+	min-height: 100vh;
 	z-index: -1;
 }
 .wrap{
